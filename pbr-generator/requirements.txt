@@ -1,0 +1,8 @@
+# PBR generator (Python 3.12). PyTorch with CUDA first, from PyTorch's own index:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+# then:  pip install -r requirements.txt
+numpy>=2.0
+pillow>=10.0
+xxhash>=3.0
+spandrel>=0.4
+torch>=2.4

@@ -1,4 +1,11 @@
-# Textures are built by the RBR-RTX PBR tools (make_mod.py) and shipped in the release zip, not in git (~1.5 GB).
+# Textures are built by pbr-generator (make_mod.py) and shipped in the release zip, not in git (~1.5 GB).
 rtx-remix/mods/*/textures/
 # Release zips
 dist/
+
+# pbr-generator: downloads (see its README), working data and Python leftovers
+pbr-generator/models/
+pbr-generator/bin/
+pbr-generator/work/
+pbr-generator/.venv/
+__pycache__/

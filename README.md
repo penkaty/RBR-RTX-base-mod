@@ -16,9 +16,10 @@ the Remix texture hash, so RBR-RTX works the same with or without this mod.
    `rbr-rtx\rtx-remix\mods\z_rbrrtx_pbr_warthog\`.
 3. Remove that folder to uninstall.
 
-## Build it yourself
-The textures are not in git: they are built from the game's own textures by the RBR-RTX PBR tools
-(PBRify_Remix models for the maps, `make_mod.py` to assemble the mod). Settings used for the release:
+## Make materials yourself: `pbr-generator\`
+The textures are not in git: they are built from the game's own textures by the tools in
+[`pbr-generator\`](pbr-generator/README.md) (PBRify_Remix AI models for the maps, `make_mod.py` to assemble the mod).
+Stage creators can run the same tools on their own stages. Settings used for this release:
 `rtx-remix/mods/z_rbrrtx_pbr_warthog/settings.json`.
 
 ## Status
