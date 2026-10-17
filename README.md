@@ -57,5 +57,8 @@ Remix mod. Settings used for this release: `rtx-remix/mods/z_rbrrtx_pbr_warthog/
 - [xxHash](https://github.com/Cyan4973/xxHash): Remix texture hashes.
 - [xoxor4d](https://github.com/xoxor4d): the compatibility-mod + base-mod split, and the AutoPBR idea
   ([gta4-rtx](https://github.com/xoxor4d/gta4-rtx), [gta4-rtx-autopbr-mod](https://github.com/xoxor4d/gta4-rtx-autopbr-mod)).
-- [RallySimFans](https://www.rallysimfans.hu/) for keeping RBR alive. Richard Burns Rally and its textures belong to
-  their owners; the maps here are derived from them and are shared for use with the game only.
+- **Warthog Studios**, who made Richard Burns Rally and its stages: every map here is generated from their original
+  textures.
+- [RallySimFans](https://www.rallysimfans.hu/) for keeping RBR alive.
+
+The tools and mod files are MIT-licensed ([LICENSE](LICENSE)); the texture maps are derived from the game's textures.
